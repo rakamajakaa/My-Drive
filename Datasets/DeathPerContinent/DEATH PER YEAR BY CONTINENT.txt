@@ -1,0 +1,73 @@
+DEATH PER YEAR BY CONTINENT
+
+• Hacer preguntas.
+
+1. Que me gustaria encontrar?
+
+	**Año con mas fallecimientos en cada continente.
+	**Continente que ha tenido mas muertes en el rango de fechas.
+	Promedio de muerte en cada continente en el rango de fechas.
+	Año con mas muertes a nivel global.
+
+2. Que quisiera saber de los datos?
+	
+	Sin son muertes por fallecimiento o una enfermedad o tambien por asesinatos.	
+
+3. Cual es la razon para realizar el analisis?
+
+	Tener informacion sobre la tendencia mundial sobre el fallecimiento.
+
+• Determinar el tamaño de los datos.
+
+1. Cuantas observaciones existen?
+
+	72 Filas
+
+2. Cuantas variables hay?
+
+	9 Columnas
+
+3. Necesito todas las observaciones?
+	
+	Si
+
+4. Necesito todas las variables?
+
+	Si
+
+• Categorizar variables.
+
+1. Cuantas variables categoricas existen?
+
+	9
+
+2. Cuantas variables continuas existen?
+
+	0
+
+3. Como puedo explorar cada variable segun su categoria?
+
+
+• Limpieza y validacion de datos.
+
+1. Tengo valores faltantes?
+
+	No
+
+2. Cual es la proporcion de datos faltantes?
+3. Como puedo tratar los datos faltantes?
+4. Cual es la distribucion de los datos?
+5. Tengo valores atipicos?
+
+	
+
+
+• Establecer relaciones
+
+1. Existe algun tipo de relacion entre mi variable X y Y?
+
+	Si
+
+2. Que pasa si ahora considero a la variable Z en el analisis?
+3. Que significa que las observaciones se agrupen?
+4. Que significa el patron que se ovserva?
